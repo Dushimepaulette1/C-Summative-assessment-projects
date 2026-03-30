@@ -1,0 +1,17 @@
+==========================================================
+  Thread ID : 1
+  URL       : http://httpbin.org/get
+  Bytes     : 281
+==========================================================
+
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "User-Agent": "Mozilla/5.0 (MultiThreadedScraper/1.0)", 
+    "X-Amzn-Trace-Id": "Root=1-69ca6f22-39157f7b1f91084236458458"
+  }, 
+  "origin": "41.216.100.46", 
+  "url": "http://httpbin.org/get"
+}

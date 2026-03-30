@@ -1,0 +1,9 @@
+==========================================================
+  Thread ID : 3
+  URL       : http://httpbin.org/user-agent
+  Bytes     : 61
+==========================================================
+
+{
+  "user-agent": "Mozilla/5.0 (MultiThreadedScraper/1.0)"
+}
