@@ -674,3 +674,334 @@
 [2026-03-30 19:53:07] [ALERT] Memory usage is 10% — exceeded threshold of 4%
 [2026-03-30 19:53:07] [INFO] Disk usage is 1% — within safe limits
 [2026-03-30 19:53:07] [INFO] Health check complete — CPU:3% MEM:10% DISK:1%
+[2026-04-02 17:37:37] [INFO] Server Health Monitor started
+[2026-04-02 17:37:41] [INFO] CPU usage is 21% — within safe limits
+[2026-04-02 17:37:41] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:37:41] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:37:41] [INFO] Health check complete — CPU:21% MEM:10% DISK:1%
+[2026-04-02 17:42:26] [INFO] Server Health Monitor started
+[2026-04-02 17:42:30] [INFO] CPU usage is 2% — within safe limits
+[2026-04-02 17:42:30] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:42:30] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:42:30] [INFO] Health check complete — CPU:2% MEM:10% DISK:1%
+[2026-04-02 17:43:45] [CONFIG] Thresholds updated — CPU:20% MEM:5% DISK:40%
+[2026-04-02 17:43:51] [INFO] Automatic monitoring started with interval: 60s
+[2026-04-02 17:43:51] [INFO] CPU usage is 2% — within safe limits
+[2026-04-02 17:43:51] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:43:51] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:43:51] [INFO] Health check complete — CPU:2% MEM:10% DISK:1%
+[2026-04-02 17:44:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:44:03] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:44:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:44:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:44:11] [INFO] Server Health Monitor started
+[2026-04-02 17:44:16] [INFO] Automatic monitoring started with interval: 60s
+[2026-04-02 17:44:16] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:44:16] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:44:16] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:44:16] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:44:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:44:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:44:27] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:44:27] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:44:30] [INFO] Server Health Monitor started
+[2026-04-02 17:45:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:45:03] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:45:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:45:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:45:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:45:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:45:27] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:45:27] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:46:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:46:03] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:46:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:46:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:46:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:46:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:46:27] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:46:27] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:47:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:47:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:47:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:47:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:47:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:47:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:47:27] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:47:27] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:48:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:48:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:48:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:48:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:48:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:48:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:48:27] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:48:27] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:49:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:49:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:49:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:49:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:49:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:49:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:49:27] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:49:27] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:50:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:50:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:50:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:50:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:50:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:50:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:50:27] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:50:27] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:51:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:51:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:51:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:51:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:51:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:51:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:51:27] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:51:27] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:52:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:52:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:52:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:52:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:52:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:52:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:52:27] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:52:27] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:52:34] [INFO] Server Health Monitor started
+[2026-04-02 17:52:59] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:52:59] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:52:59] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:52:59] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:53:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:53:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:53:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:53:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:53:27] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:53:27] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:53:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:53:28] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:53:43] [CONFIG] Thresholds updated — CPU:70% MEM:85% DISK:90%
+[2026-04-02 17:53:46] [INFO] Automatic monitoring started with interval: 60s
+[2026-04-02 17:53:46] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:53:46] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:53:46] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:53:46] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:54:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:54:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:54:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:54:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:54:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:54:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:54:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:54:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:54:05] [INFO] Server Health Monitor started
+[2026-04-02 17:54:28] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:54:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:54:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:54:28] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:55:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:55:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:55:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:55:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:55:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:55:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:55:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:55:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:55:28] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:55:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:55:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:55:28] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:56:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:56:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:56:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:56:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:56:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:56:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:56:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:56:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:56:28] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:56:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:56:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:56:28] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:57:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:57:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:57:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:57:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:57:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:57:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:57:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:57:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:57:28] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:57:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:57:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:57:28] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:58:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:58:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:58:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:58:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:58:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:58:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:58:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:58:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:58:28] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:58:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:58:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:58:28] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:59:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:59:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:59:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:59:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:59:04] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:59:04] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 17:59:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:59:04] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 17:59:28] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 17:59:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 17:59:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 17:59:28] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 18:00:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 18:00:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:00:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:00:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 18:00:05] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 18:00:05] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:00:05] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:00:05] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 18:00:28] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 18:00:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:00:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:00:28] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 18:01:03] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 18:01:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:01:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:01:03] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 18:01:05] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 18:01:05] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:01:05] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:01:05] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 18:01:28] [INFO] CPU usage is 1% — within safe limits
+[2026-04-02 18:01:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:01:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:01:28] [INFO] Health check complete — CPU:1% MEM:10% DISK:1%
+[2026-04-02 18:02:03] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:02:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:02:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:02:03] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:02:05] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:02:05] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:02:05] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:02:05] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:02:28] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:02:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:02:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:02:28] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:03:03] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:03:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:03:03] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:03:03] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:03:05] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:03:05] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:03:05] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:03:05] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:03:28] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:03:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:03:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:03:28] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:04:03] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:04:03] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:04:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:04:04] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:04:05] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:04:05] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:04:05] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:04:05] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:04:28] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:04:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:04:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:04:28] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:05:04] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:05:04] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:05:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:05:04] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:05:05] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:05:05] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:05:05] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:05:05] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:05:28] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:05:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:05:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:05:28] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:06:04] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:06:04] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:06:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:06:04] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:06:05] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:06:05] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:06:05] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:06:05] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:06:28] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:06:28] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:06:28] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:06:28] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:07:04] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:07:04] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:07:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:07:04] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:07:05] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:07:05] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:07:05] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:07:05] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:07:29] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:07:29] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:07:29] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:07:29] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:08:04] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:08:04] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:08:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:08:04] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:08:05] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:08:05] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:08:05] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:08:05] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:08:29] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:08:29] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:08:29] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:08:29] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:09:04] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:09:04] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:09:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:09:04] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:09:06] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:09:06] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:09:06] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:09:06] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:09:29] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:09:29] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:09:29] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:09:29] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:10:04] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:10:04] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:10:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:10:04] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:10:06] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:10:06] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:10:06] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:10:06] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:10:29] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:10:29] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:10:29] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:10:29] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:11:04] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:11:04] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:11:04] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:11:04] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:11:06] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:11:06] [ALERT] Memory usage is 10% — exceeded threshold of 5%
+[2026-04-02 18:11:06] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:11:06] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%
+[2026-04-02 18:11:29] [INFO] CPU usage is 0% — within safe limits
+[2026-04-02 18:11:29] [INFO] Memory usage is 10% — within safe limits
+[2026-04-02 18:11:29] [INFO] Disk usage is 1% — within safe limits
+[2026-04-02 18:11:29] [INFO] Health check complete — CPU:0% MEM:10% DISK:1%

@@ -1,3 +1,7 @@
+#!/bin/bash
+# PROJECT 2: Linux Server Health Monitoring Script
+# Usage: chmod +x monitor.sh && ./monitor.sh
+
 LOG_FILE="server_health.log"
 CHECK_INTERVAL=60       
 
