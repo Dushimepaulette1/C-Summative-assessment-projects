@@ -48,11 +48,13 @@ Simulates a smart traffic light system managing two intersections simultaneously
 | Intersection 1 Green LED | Pin 8 |
 | Intersection 1 Button | Pin 9 |
 
+**Tinkercad Simulation:** [Click here to open the live simulation](https://www.tinkercad.com/things/dJYxlww5LBH-terrific-fyyran-albar?sharecode=s89XXEWW2G8KqSVo9iOIw7ZsfpswaYMyHNQ6sJHT1Ig)
+
 **How to run:**
-1. Open [Tinkercad](https://www.tinkercad.com)
-2. Wire components as shown above
-3. Paste `traffic_light.ino` into the code editor (Text mode)
-4. Start Simulation and open the Serial Monitor
+1. Open the Tinkercad link above
+2. Click **"Copy and Tinker"** to get your own editable copy
+3. Click **"Start Simulation"** and open the Serial Monitor
+4. Press the buttons to simulate vehicles
 5. Type `m` in Serial Monitor for the command menu
 
 ---
